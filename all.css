@@ -2,6 +2,7 @@
 
 *, *::before, *::after{
     box-sizing: border-box;
+    /* outline: 1px solid #000 ; */
 }
 body{
     font-family: "Bruno Ace SC", serif;
@@ -79,6 +80,7 @@ img{
 }
 .about{
     justify-content: space-between;
+    align-items: center;
 }
 .list ul{
     width: 636px;
