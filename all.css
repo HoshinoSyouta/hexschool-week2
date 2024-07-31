@@ -90,7 +90,7 @@ img{
     padding: 16px; 
     width: 306px;
     border: 1px solid #E3E3E3;
-    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.02);
+    box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.08);
 }
 .about-content{
     width: 526px;
